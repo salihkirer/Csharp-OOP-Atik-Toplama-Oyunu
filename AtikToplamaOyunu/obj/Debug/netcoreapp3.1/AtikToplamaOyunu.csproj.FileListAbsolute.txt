@@ -1,0 +1,17 @@
+C:\Users\salih\Desktop\AtikToplamaOyunu\bin\Debug\netcoreapp3.1\AtikToplamaOyunu.exe
+C:\Users\salih\Desktop\AtikToplamaOyunu\bin\Debug\netcoreapp3.1\AtikToplamaOyunu.dll.config
+C:\Users\salih\Desktop\AtikToplamaOyunu\bin\Debug\netcoreapp3.1\AtikToplamaOyunu.deps.json
+C:\Users\salih\Desktop\AtikToplamaOyunu\bin\Debug\netcoreapp3.1\AtikToplamaOyunu.runtimeconfig.json
+C:\Users\salih\Desktop\AtikToplamaOyunu\bin\Debug\netcoreapp3.1\AtikToplamaOyunu.runtimeconfig.dev.json
+C:\Users\salih\Desktop\AtikToplamaOyunu\bin\Debug\netcoreapp3.1\AtikToplamaOyunu.dll
+C:\Users\salih\Desktop\AtikToplamaOyunu\bin\Debug\netcoreapp3.1\AtikToplamaOyunu.pdb
+C:\Users\salih\Desktop\AtikToplamaOyunu\obj\Debug\netcoreapp3.1\AtikToplamaOyunu.csproj.AssemblyReference.cache
+C:\Users\salih\Desktop\AtikToplamaOyunu\obj\Debug\netcoreapp3.1\AtikToplamaOyunu.csproj.GenerateResource.cache
+C:\Users\salih\Desktop\AtikToplamaOyunu\obj\Debug\netcoreapp3.1\AtikToplamaOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salih\Desktop\AtikToplamaOyunu\obj\Debug\netcoreapp3.1\AtikToplamaOyunu.AssemblyInfoInputs.cache
+C:\Users\salih\Desktop\AtikToplamaOyunu\obj\Debug\netcoreapp3.1\AtikToplamaOyunu.AssemblyInfo.cs
+C:\Users\salih\Desktop\AtikToplamaOyunu\obj\Debug\netcoreapp3.1\AtikToplamaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\salih\Desktop\AtikToplamaOyunu\obj\Debug\netcoreapp3.1\AtikToplamaOyunu.dll
+C:\Users\salih\Desktop\AtikToplamaOyunu\obj\Debug\netcoreapp3.1\AtikToplamaOyunu.pdb
+C:\Users\salih\Desktop\AtikToplamaOyunu\obj\Debug\netcoreapp3.1\AtikToplamaOyunu.genruntimeconfig.cache
+C:\Users\salih\Desktop\AtikToplamaOyunu\obj\Debug\netcoreapp3.1\AtikToplamaOyunu.AnaForm.resources
